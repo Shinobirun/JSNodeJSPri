@@ -1,0 +1,16 @@
+{
+    "name": "hola-mundo",
+    "version": "1.0.0",
+    "description": "Primer proyecto JavaScript con Node ",
+    "main": "index.js",
+    "scripts": {
+        "saludar": "node hola_mundo.js",
+        "Sal": "node Saludo.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "holamundo"
+    ],
+    "author": "Adrian Latorre",
+    "license": "ISC"
+}
